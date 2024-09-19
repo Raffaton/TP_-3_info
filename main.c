@@ -3,5 +3,6 @@
 int main()
 {
   printf("Hello");
+  printf("Coucou grosse merde");
   return 0;
 }
