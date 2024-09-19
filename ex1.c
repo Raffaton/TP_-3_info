@@ -59,7 +59,7 @@ int main()
   char choix_objet[50];
   strcpy(choix_objet,objets[aleatoire_action]);
 
-
+  
   printf("%s est alle a %s et a %s avec %s", choix_personage, choix_lieu, choix_actions, choix_objet);
 
   return 0;
