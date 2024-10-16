@@ -6,7 +6,7 @@
 int main()
 {
   /*PERSONNAGES*/
-  char personages[3][50] = {" ", " "," "};
+  char personages[3][60] = {" ", " "," "};
 
   for (int i = 0; i < 3; i++)
   {
